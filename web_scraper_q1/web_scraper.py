@@ -18,7 +18,7 @@ if r.status_code == 200:
             
             url = header['href']
             if url.startswith('/'):
-                url = 'https://theatlanticcom' + url
+                url = 'https://theatlantic.com' + url
 
             print(f"{i + 1}. Title: {title}")
             print(f"   URL: {url}")
