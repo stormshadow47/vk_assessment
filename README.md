@@ -78,6 +78,7 @@ Visit /orders/top-customers/ to see the list.
 ### Dependencies:
 
 Django: The web framework used to develop the application.
+
 Python: The programming language used for development.
 
 
