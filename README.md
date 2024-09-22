@@ -50,7 +50,7 @@ python manage.py migrate
 ### 5. Create a Superuser
 
 ```bash
-python manage.py runserver
+python manage.py createsuperuser
 
 ```
 
