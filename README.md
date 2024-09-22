@@ -13,8 +13,8 @@ This project is a Django-based web application that manages customers and their 
 
 ## Requirements
 
-- Python 3.x
-- Django 4.x (or compatible version)
+- Python3
+- Django 5.1.1
 - Other dependencies listed in `requirements.txt`
 
 ## Setup and Installation
