@@ -83,5 +83,10 @@ Python: The programming language used for development.
 
 
 
+![Screenshot (132)](https://github.com/user-attachments/assets/b43ff94f-be65-440d-9330-8579e1325ccb)
+
+
+![Screenshot (131)](https://github.com/user-attachments/assets/aef56ed8-8a66-4615-84a6-2ccc024e5b5d)
+
 
 
